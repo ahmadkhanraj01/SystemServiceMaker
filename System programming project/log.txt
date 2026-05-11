@@ -1,0 +1,38 @@
+[2026-05-10 22:31:24] [INFO   ] === service_maker started ===
+[2026-05-10 22:31:38] [INFO   ] Starting service: myapp
+[2026-05-10 22:31:38] [SUCCESS] Service 'myapp' started.
+[2026-05-10 22:31:38] [INFO   ] === service_maker exited ===
+[2026-05-10 22:32:15] [INFO   ] === service_maker started ===
+[2026-05-10 22:32:22] [INFO   ] Checking status of service: myapp
+[2026-05-10 22:32:22] [INFO   ] Service 'myapp' is active.
+[2026-05-10 22:32:22] [INFO   ] === service_maker exited ===
+[2026-05-10 22:32:43] [INFO   ] === service_maker started ===
+[2026-05-10 22:32:50] [INFO   ] Stopping service: myapp
+[2026-05-10 22:32:50] [SUCCESS] Service 'myapp' stopped.
+[2026-05-10 22:32:50] [INFO   ] === service_maker exited ===
+[2026-05-10 22:32:55] [INFO   ] === service_maker started ===
+[2026-05-10 22:34:33] [INFO   ] Validating service name: saad
+[2026-05-10 22:34:33] [SUCCESS] Service name is valid.
+[2026-05-10 22:34:33] [INFO   ] Validating executable path: /usr/local/bin/myservice.sh
+[2026-05-10 22:34:33] [SUCCESS] Executable path is valid.
+[2026-05-10 22:34:33] [INFO   ] Creating service file for: saad
+[2026-05-10 22:34:33] [SUCCESS] Service file created.
+[2026-05-10 22:34:33] [INFO   ] Installing service: saad
+[2026-05-10 22:34:33] [SUCCESS] Service installed to systemd.
+[2026-05-10 22:34:33] [INFO   ] Reloading systemd daemon.
+[2026-05-10 22:34:33] [SUCCESS] systemd daemon reloaded.
+[2026-05-10 22:34:33] [INFO   ] Enabling service: saad
+[2026-05-10 22:34:34] [SUCCESS] Service 'saad' enabled successfully.
+[2026-05-10 22:34:34] [INFO   ] === service_maker exited ===
+[2026-05-10 22:34:54] [INFO   ] === service_maker started ===
+[2026-05-10 22:35:00] [INFO   ] Starting service: saad
+[2026-05-10 22:35:00] [SUCCESS] Service 'saad' started.
+[2026-05-10 22:35:00] [INFO   ] === service_maker exited ===
+[2026-05-10 22:35:25] [INFO   ] === service_maker started ===
+[2026-05-10 22:35:30] [INFO   ] Stopping service: saad
+[2026-05-10 22:35:30] [SUCCESS] Service 'saad' stopped.
+[2026-05-10 22:35:30] [INFO   ] === service_maker exited ===
+[2026-05-10 22:35:38] [INFO   ] === service_maker started ===
+[2026-05-10 22:35:44] [INFO   ] Checking status of service: saad
+[2026-05-10 22:35:44] [WARN   ] Service 'saad' is NOT active.
+[2026-05-10 22:35:44] [INFO   ] === service_maker exited ===
