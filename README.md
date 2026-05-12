@@ -113,7 +113,7 @@ systemctl --version
 ### Clone & Build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SystemServiceMaker.git
+git clone https://github.com/ahmadkhanraj01/SystemServiceMaker.git
 cd SystemServiceMaker
 make
 ```
